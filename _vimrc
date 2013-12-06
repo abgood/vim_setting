@@ -56,7 +56,7 @@ colorscheme desert
 " 设置当前行显示
 set nu
 set cursorline
-set cc=120
+"set cc=120
 
 
 " 自动折叠 C和C++代码
